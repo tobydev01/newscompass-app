@@ -1,0 +1,1 @@
+# newscompass-app
